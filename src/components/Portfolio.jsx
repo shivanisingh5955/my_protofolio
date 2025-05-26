@@ -9,22 +9,20 @@ const Portfolio = () => {
 
     const portfolios = [
         {
-            id:1,
-            src:VeloDev,
-            demo:"",
-            code:""
+            id:2,
+            src:VeloDev
+            
         },
         {
-            id:2,
+            id:1,
             src:Mysite,
-            demo:"",
-            code:""
+            demo:"https://my-protofolio-shivanisingh5955s-projects.vercel.app/",
+            code:"https://github.com/shivanisingh5955/my_protofolio"
         },
         {
             id:3,
-            src:Todo,
-            demo:"",
-            code:""
+            src:Todo
+            
         },
         {
             id:4,
